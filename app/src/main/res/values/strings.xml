@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Shake It</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_shake">ShakeActivity</string>
+    <string name="title_activity_comunication">Partida en curso</string>
+    <string name="title_activity_game">Configurar partida</string>
+
+    <string name="title_fragment_game_creation">Crear partida</string>
+
+    <string name="dialog_title">Turno siguiente</string>
+    <string name="sending_message">Enviando resultados&#8230;</string>
+    <string name="receiving_message">Recibiendo resultados&#8230;</string>
+    <string name="success_message">¡Recepción correcta!</string>
+    <string name="error_message">¡¡¡Error al conectar!!!</string>
+    <string name="dialog_message">¡El tiempo ha terminado!</string>
+    <string name="no_accelerometer_error_msg">There is no an accelerometer!</string>
+    <string name="shaking_msg">Let\'s shake!</string>
+    <string name="text_game_name">Escribe un nombre de partida</string>
+
+    <string name="button_shake_begin">Empezar</string>
+    <string name="button_stop_text">Stop</string>
+    <string name="play_button">Jugar</string>
+    <string name="create_game_button">Crear Partida</string>
+    <string name="join_game_button">Unirse a Partida</string>
+
+    <string name="title_fragment_game">¿Qué vas a hacer?</string>
+    <string name="title_activity_game_creation">GameCreationActivity</string>
+
+    <string name="title_fragment_game_join">Unirse a partida</string>
+    <string name="text_game_player_name">Escribe tu nombre de jugador</string>
+    <string name="button_game_join_submit">Unirse</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="status_msg_wait_for_your_turn">¡Espera tu turno!</string>
+    <string name="status_msg_wait_for_players">Esperando a jugadores…</string>
+    <string name="status_msg_wait_for_hosts">Esperando a creadores de partida…</string>
+    <string name="text_activity_shake">Let\\\'s shake!</string>
+
+    <string name="winner_message">¡Has ganado! ¡Has hecho %1d shakes!</string>
+    <string name="loser_message">¡Has perdido! ¡El ganador ha hecho %1d shakes!</string>
+    <string name="title_dialog_winner_msg">¡Has ganado!</string>
+    <string name="title_dialog_loser_msg">¡Has perdido!</string>
+    <string name="abutton_game_creation_submit">Crear</string>
+    <string name="text_remaining_time">Tiempo restante:</string>
+    <string name="button_game_creation_submit">Crear</string>
+    <string name="shakes_counter_msg">shakes</string>
+    <string name="minutes_fixed_text">00:</string>
+    <string name="time_finish">¡El tiempo ha concluido!</string>
+    <string name="time_to_zeros">00:00</string>
+    <string name="waiting_for_results_status">Esperando resultados…</string>
+    <string name="your_result_title">Tu resultado</string>
+    <string name="wait_for_your_turn_status">¡Espera tu turno!</string>
+    <string name="peripheral_mode_not_supported_msg">El dispositivo no puede emitir balizas, el juego no funcionará.</string>
+    <string name="device_has_no_bluetooth_msg">El dispositivo no tiene bluetooth.</string>
+    <string name="device_has_no_accelerometer_msg">El dispositivo no tiene acelerómetro.</string>
+
+
+</resources>
